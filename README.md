@@ -3,7 +3,7 @@ Proyecto Ejemplo
 Autor: Veronica Ogarrio
 
 Más líneas
-
+//Dev1 -sug
 //git clone <repo>
 //git fetch
 //git pull origin main
