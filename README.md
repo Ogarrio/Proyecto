@@ -3,6 +3,7 @@ Proyecto Ejemplo
 Autor: Veronica Ogarrio
 
 Más líneas
+
 //Dev1 -sug
 //git clone <repo>
 //git fetch
@@ -13,3 +14,5 @@ Más líneas
 Branches
 git branch Dev1
 git checkout Dev1
+
+git checkout -B Dev2
